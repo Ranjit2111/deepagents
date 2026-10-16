@@ -2,6 +2,13 @@
 
 # Deep Agents Changelog
 
+## [0.7.27](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.26...deepagents==0.7.27) (2026-10-16)
+
+
+### Features
+
+* **sdk:** tell the main agent about async subagent status updates ([#6853](https://github.com/langchain-ai/deepagents/issues/6853)) ([9cf009b](https://github.com/langchain-ai/deepagents/commit/9cf009bb21b6bf3578f94555ac4ebfbc59d4e500))
+
 ## [0.7.26](https://github.com/langchain-ai/deepagents/compare/deepagents==0.7.25...deepagents==0.7.26) (2026-10-15)
 
 ### Features
