@@ -2,6 +2,18 @@
 
 # Deep Agents Code Changelog
 
+## [0.1.86](https://github.com/langchain-ai/deepagents/compare/deepagents-code==0.1.85...deepagents-code==0.1.86) (2026-10-16)
+
+
+### Features
+
+* **code:** highlight expired prompt caches as banner ([#6957](https://github.com/langchain-ai/deepagents/issues/6957)) ([70f4342](https://github.com/langchain-ai/deepagents/commit/70f43426ce7c0bf2d03c616e4ef4845ab9b75ca5))
+
+
+### Bug Fixes
+
+* **code:** highlight expired prompt cache in the footer ([#6970](https://github.com/langchain-ai/deepagents/issues/6970)) ([23bc1d7](https://github.com/langchain-ai/deepagents/commit/23bc1d77f94bef746f64cfae7730705e23485d52))
+
 ## [0.1.85](https://github.com/langchain-ai/deepagents/compare/deepagents-code==0.1.84...deepagents-code==0.1.85) (2026-10-14)
 
 ### Bug Fixes
